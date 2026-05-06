@@ -2,7 +2,7 @@
 
 A comprehensive web application built with Laravel for managing educational institutions. This system provides tools for student enrollment, teacher management, exam scheduling, fee collection, and administrative operations.
 
-![Dashboard](https://prnt.sc/Ug2XxvhGGGgp)
+![Dashboard](https://img.lightshot.app/7K1QlWG4TAapkQwZxogPcg.png)
 
 ## 🚀 Features
 
