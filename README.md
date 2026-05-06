@@ -1,4 +1,4 @@
-# school-management-system-livewire
+# School-Management System Livewire
 
 A comprehensive web application built with Laravel for managing educational institutions. This system provides tools for student enrollment, teacher management, exam scheduling, fee collection, and administrative operations.
 
