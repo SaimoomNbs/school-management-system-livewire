@@ -109,5 +109,5 @@ academy/
 
 For support, collaboration, or project inquiries:
 
-- 📧 Email: [saidmohammad565@gmail.comcom](mailto:saidmohammad565@gmail.com)
+- 📧 Email: [saidmohammad565@gmail.com](mailto:saidmohammad565@gmail.com)
 - 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/+8801755339757)
