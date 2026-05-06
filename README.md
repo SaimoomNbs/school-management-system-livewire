@@ -16,7 +16,7 @@ A comprehensive web application built with Laravel for managing educational inst
 
 ## 🛠 Tech Stack
 
-- **Backend**: Laravel 11.x, PHP 8.2+
+- **Backend**: Laravel 13.x, PHP 8.3+
 - **Frontend**: Livewire, Tailwind CSS, Alpine.js
 - **Database**: MySQL
 - **Build Tool**: Vite
@@ -60,17 +60,12 @@ A comprehensive web application built with Laravel for managing educational inst
    php artisan key:generate
    ```
 
-6. **Run Database Migrations**
+6. **Seed the Database (Optional)**
    ```bash
-   php artisan migrate
+   Contact us for database file
    ```
 
-7. **Seed the Database (Optional)**
-   ```bash
-   php artisan db:seed
-   ```
-
-8. **Build Assets**
+7. **Build Assets**
    ```bash
    npm run build
    # or for development
@@ -109,46 +104,10 @@ academy/
 └── config/                # Configuration files
 ```
 
-## 🔐 Environment Variables
 
-Create a `.env` file in the root directory with the following variables:
+## 📞 Contact
 
-```env
-APP_NAME="Academy Management System"
-APP_ENV=local
-APP_KEY=
-APP_DEBUG=true
-APP_URL=http://localhost
+For support, collaboration, or project inquiries:
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=academy_db
-DB_USERNAME=your_username
-DB_PASSWORD=your_password
-
-MAIL_MAILER=smtp
-MAIL_HOST=mailpit
-MAIL_PORT=1025
-MAIL_USERNAME=null
-MAIL_PASSWORD=null
-MAIL_ENCRYPTION=null
-MAIL_FROM_ADDRESS="hello@example.com"
-MAIL_FROM_NAME="${APP_NAME}"
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Support
-
-If you have any questions or need help, please open an issue on GitHub.
+- 📧 Email: [saidmohammad565@gmail.comcom](mailto:saidmohammad565@gmail.com)
+- 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/+8801755339757)
