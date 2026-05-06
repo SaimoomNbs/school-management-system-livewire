@@ -1,0 +1,94 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #f1f2f5;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    color: #111214;
+}
+
+.auth-wrapper {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.auth-card {
+    background: #ffffff;
+    width: 100%;
+    max-width: 400px;
+    padding: 40px 32px;
+    border-radius: 14px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, .07), 0 1px 4px rgba(0, 0, 0, .04);
+    border: 1px solid #e5e7eb;
+}
+
+.auth-logo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.auth-logo-icon {
+    width: 48px;
+    height: 48px;
+    background: linear-gradient(135deg, #111214, #3f3f46);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 800;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.auth-title {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 750;
+    margin-bottom: 6px;
+    letter-spacing: -0.5px;
+}
+
+.auth-sub {
+    text-align: center;
+    font-size: 13.5px;
+    color: #868d97;
+    margin-bottom: 32px;
+}
+
+.cms-content-wrapper h1,
+.cms-content-wrapper h2,
+.cms-content-wrapper h3 {
+    color: #0f172a;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 800;
+}
+
+.cms-content-wrapper p {
+    margin-bottom: 1.5rem;
+}
+
+.cms-content-wrapper a {
+    color: #3b82f6;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.cms-content-wrapper a:hover {
+    text-decoration: underline;
+}
+
+.cms-content-wrapper ul {
+    margin-bottom: 1.5rem;
+    padding-left: 1.5rem;
+}
+
+.cms-content-wrapper li {
+    margin-bottom: 0.5rem;
+}
